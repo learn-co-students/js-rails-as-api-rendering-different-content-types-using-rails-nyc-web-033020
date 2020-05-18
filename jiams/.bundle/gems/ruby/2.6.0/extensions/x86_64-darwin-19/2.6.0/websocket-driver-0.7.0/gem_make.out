@@ -1,0 +1,15 @@
+current directory: /Users/jiams/Flatiron/Mod_3/js-rails-as-api-rendering-different-content-types-using-rails-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/jiams/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/jiams/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200517-74707-1me9ov7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jiams/Flatiron/Mod_3/js-rails-as-api-rendering-different-content-types-using-rails-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/jiams/Flatiron/Mod_3/js-rails-as-api-rendering-different-content-types-using-rails-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/jiams/Flatiron/Mod_3/js-rails-as-api-rendering-different-content-types-using-rails-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20200517-74707-16ze8l

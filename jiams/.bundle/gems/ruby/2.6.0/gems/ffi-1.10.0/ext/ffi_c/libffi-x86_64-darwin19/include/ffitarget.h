@@ -1,0 +1,1 @@
+/Users/jiams/Flatiron/Mod_3/js-rails-as-api-rendering-different-content-types-using-rails-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/ffi-1.10.0/ext/ffi_c/libffi/src/x86/ffitarget.h
